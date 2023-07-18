@@ -1,0 +1,22 @@
+id,Age,Sex,High Performance Athlete,Follow Exercise Program,History of Headaches,History of ADHD,History of Depression,History of Concussion,Time Since Last Concussion (Years),Mechanism,Time of Symptom Onset,Loss of Consciousness,Time Since Injury (Days),Symptom Trend Since Injury,Total Symptom Number,Symptom Severity,Percent of Normal
+9,37.12,Male,No,Yes,No,No,No,Yes,3.49,Sport/PA,Immediate,No,1,No change,13,24,57
+16,20.31,Female,No,Yes,No,No,Yes,Yes,5.42,Other,Immediate,No,9,"Worse, then better",12,42,70
+26,30.63,Female,No,No,Yes,No,Yes,Yes,3.06,MVC,Delayed,No,28,"Better, then worse",12,27,65
+59,37.34,Female,No,Yes,Yes,No,No,No,NA,Sport/PA,Delayed,No,16,Steadily better,16,19,75
+25,38.67,Female,NA,NA,NA,NA,NA,NA,NA,Other,Delayed,No,876,NA,0,NA,NA
+30,47.3,Male,No,No,No,Yes,No,Yes,0,MVC,Delayed,No,410,"Better, then worse",20,52,70
+55,27.1,Female,Yes,Yes,No,No,No,Yes,3.55,Sport/PA,Delayed,No,40,Steadily worse,13,44,40
+56,26.42,Female,No,Yes,No,No,No,Yes,3.49,Sport/PA,Immediate,No,11,Steadily better,18,42,35
+51,NA,Female,NA,NA,NA,NA,NA,NA,NA,Sport/PA,Delayed,NA,NA,NA,NA,NA,NA
+14,33.91,Female,No,No,No,No,Yes,No,NA,MVC,Immediate,No,393,Steadily better,21,80,50
+35,35.98,Female,No,No,No,No,Yes,No,NA,MVC,Immediate,No,25,"Better, then worse",16,33,35
+13,28.38,Female,No,No,Yes,No,Yes,Yes,4.07,Fall,Delayed,No,82,"Better, then worse",17,38,60
+20,27.47,Male,No,No,No,No,No,Yes,0,Sport/PA,Delayed,Unsure,761,"Better, then worse",22,63,75
+28,49.78,Female,No,No,Yes,No,Yes,No,NA,Other,Delayed,No,116,"Better, then worse",17,23,77
+34,28.29,Female,No,No,Yes,No,Yes,No,NA,Work,Immediate,No,634,Steadily better,10,16,71
+21,54.36,Female,No,No,NA,NA,NA,NA,NA,Work,Delayed,No,572,Steadily better,19,64,40
+61,32.85,Male,Yes,Yes,No,No,No,Yes,0,Sport/PA,Immediate,Yes,55,"Better, then worse",17,29,38
+29,28.43,Female,No,No,No,No,Yes,No,NA,Sport/PA,Immediate,No,54,Steadily better,18,94,50
+49,52.49,Female,No,No,NA,NA,NA,NA,NA,Fall,Delayed,Yes,1066,"Better, then worse",20,95,25
+48,56.13,Female,No,Yes,Yes,No,Yes,Yes,26.24,Other,Delayed,No,723,"Better, then worse",12,26,70
+58,23.65,Female,No,No,No,No,No,No,NA,Sport/PA,Immediate,Unsure,89,Steadily better,14,25,50

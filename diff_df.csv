@@ -1,0 +1,19 @@
+user_id,pre_symp_sev,post_symp_sev,symp_diff,Age,Sex,Follow Exercise Program,History of Headaches,History of ADHD,History of Depression,History of Concussion,Mechanism,Time of Symptom Onset,Symptom Trend Since Injury,avg_hr_per
+9,14,3,11,37.12,Male,Yes,No,No,No,Yes,Sport/PA,Immediate,No change,52.6784507
+13,25,22,3,28.38,Female,No,Yes,No,Yes,Yes,Fall,Delayed,"Better, then worse",56.29714637
+14,46,29,17,33.91,Female,No,No,No,Yes,No,MVC,Immediate,Steadily better,67.39727273
+16,34,13,21,20.31,Female,Yes,No,No,Yes,Yes,Other,Immediate,"Worse, then better",57.45442922
+20,47,NA,NA,27.47,Male,No,No,No,No,Yes,Sport/PA,Delayed,"Better, then worse",58.37284326
+26,29,20,9,30.63,Female,No,Yes,No,Yes,Yes,MVC,Delayed,"Better, then worse",54.07007194
+28,28,21,7,49.78,Female,No,Yes,No,Yes,No,Other,Delayed,"Better, then worse",57.79845588
+29,48,29,19,28.43,Female,No,No,No,Yes,No,Sport/PA,Immediate,Steadily better,62.76899083
+30,43,26,17,47.3,Male,No,No,Yes,No,Yes,MVC,Delayed,"Better, then worse",64.38293307
+34,22,9,13,28.29,Female,No,Yes,No,Yes,No,Work,Immediate,Steadily better,49.22870341
+35,29,22,7,35.98,Female,No,No,No,Yes,No,MVC,Immediate,"Better, then worse",51.91444043
+48,31,24,7,56.13,Female,Yes,Yes,No,Yes,Yes,Other,Delayed,"Better, then worse",65.23246305
+49,58,49,9,52.49,Female,No,NA,NA,NA,NA,Fall,Delayed,"Better, then worse",62.85655319
+55,23,16,7,27.1,Female,Yes,No,No,No,Yes,Sport/PA,Delayed,Steadily worse,53.08501292
+56,37,24,13,26.42,Female,Yes,No,No,No,Yes,Sport/PA,Immediate,Steadily better,46.88616774
+58,36,24,12,23.65,Female,No,No,No,No,No,Sport/PA,Immediate,Steadily better,65.09016927
+59,19,19,0,37.34,Female,Yes,Yes,No,No,No,Sport/PA,Delayed,Steadily better,64.87386781
+61,46,36,10,32.85,Male,Yes,No,No,No,Yes,Sport/PA,Immediate,"Better, then worse",54.02692174
