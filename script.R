@@ -385,7 +385,7 @@ summary(raw_user_means)
 sd(raw_user_means)
 summary(raw_user_sd) 
 
-#Summative data for results
+#Summative data for results (table not in manuscript but just for results)
 #hr means by session
 t3 <- 
   tbl_summary(hr_df4[c(7,8)],by = 'Session',missing = 'no',
@@ -1688,7 +1688,7 @@ est_diff_tbl <-
   modify_header(label ~ '**Estimated Difference**')%>%
   bold_labels()
 
-#merge 3 sections into one table
+#merge 3 sections into one table (Table 2 in manuscript)
 t3_hr <-
   tbl_merge(list(raw_symp_tbl,est_diff_tbl,perc_dec_tbl),
             tab_spanner = c("**Raw Symptom Scores**", 
